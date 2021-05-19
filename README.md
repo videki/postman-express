@@ -1,6 +1,6 @@
 # Postman-express
 
-Nodejs application to quickly setup a mock serveur based on a Postman collection with Default json responses.
+Nodejs application to quickly setup a mock serveur based on a Postman collection.
 
 ## Requirements
 
